@@ -33,6 +33,8 @@ html { scroll-behavior: smooth; scroll-padding-top: 96px; }
 body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 1rem; line-height: 1.75; -webkit-font-smoothing: antialiased; }
 body.nav-open { overflow: hidden; }
 img { max-width: 100%; display: block; }
+/* 適應性換行：避免最後一行只剩一兩個字 */
+p, li, dd { text-wrap: pretty; }
 a { color: var(--blue); text-underline-offset: 3px; }
 a:hover { color: var(--navy); }
 :focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; border-radius: 6px; }
@@ -140,7 +142,7 @@ a:hover { color: var(--navy); }
 .about-bento { display: grid; gap: var(--gap); }
 @media (min-width: 760px) { .about-bento { grid-template-columns: 1.4fr 1fr; } }
 .about-bento > :only-child { grid-column: 1 / -1; }
-.about-tile p { margin: 0 0 12px; color: var(--ink-soft); max-width: 36em; }
+.about-tile p { margin: 0 0 12px; color: var(--ink-soft); }
 .about-tile p:last-child { margin-bottom: 0; }
 
 /* 研究 */
@@ -154,7 +156,7 @@ a:hover { color: var(--navy); }
 .area { min-height: 230px; display: flex; flex-direction: column; }
 .area h3 { margin: auto 0 0; font-size: 1.45rem; font-weight: 900; letter-spacing: 0.02em; line-height: 1.35; }
 .area-en { margin: 0 0 8px; font-family: var(--font-display); font-weight: 700; }
-.area p:last-child { margin: 0; max-width: 28em; }
+.area p:last-child { margin: 0; }
 .area-icon { width: 52px; height: 52px; margin-bottom: 24px; fill: none; stroke: currentColor; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
 .area--ai { background: var(--ai); color: var(--ai-ink); }
 .area--info { background: var(--info); color: var(--info-ink); }
