@@ -1,0 +1,9 @@
+# 原始素材（CV、原始照片等）不公開
+製作內容/
+Curriculum Vitae_2026.docx
+*.docx
+# 本機設定
+.claude/
+.DS_Store
+# 協作說明（不公開）
+CLAUDE.md

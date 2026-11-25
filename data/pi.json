@@ -1,0 +1,207 @@
+{
+  "name_zh": "林敬恒",
+  "name_en": "Ching-Heng Lin, Ph.D.",
+  "title_zh": "助理教授",
+  "title_en": "Assistant Professor",
+  "affiliation_zh": "國立清華大學 醫學資訊碩士學位學程",
+  "affiliation_en": "Master's Program in Medical Informatics, National Tsing Hua University",
+  "email": "chlin@life.nthu.edu.tw",
+  "photo": "assets/img/members/placeholder.png",
+  "bio_zh": "【PI 個人簡介：請補充 2–3 句中文簡介】",
+  "bio_en": "【PI biography: please provide a 2–3 sentence introduction】",
+  "specialties": [
+    "Medical AI",
+    "Medical Informatics",
+    "Health Data Analytics"
+  ],
+  "skills": [
+    "Programming (Python, JavaScript, PyTorch)",
+    "Data Analysis",
+    "Project Management (Scrum, Git)",
+    "Scientific Writing and Presentation"
+  ],
+  "experience": [
+    {
+      "period": "Aug. 2026 – Present",
+      "text": "Assistant Professor, Master's Program in Medical Informatics, National Tsing Hua University (Hsinchu, Taiwan)"
+    },
+    {
+      "period": "Aug. 2025 – Jul. 2026",
+      "text": "Associate Research Fellow, Center for Artificial Intelligence in Medicine, Chang Gung Memorial Hospital (Taoyuan, Taiwan)"
+    },
+    {
+      "period": "Aug. 2025 – Jul. 2026",
+      "text": "Adjunct Assistant Professor, Master Program in Medical Informatics, National Tsing Hua University (Hsinchu, Taiwan)"
+    },
+    {
+      "period": "Jul. 2021 – Jul. 2026",
+      "text": "Adjunct Assistant Professor, Bachelor Program in Artificial Intelligence, Chang Gung University (Taoyuan, Taiwan)"
+    },
+    {
+      "period": "Sep. 2020 – Aug. 2025",
+      "text": "Assistant Research Fellow, Center for Artificial Intelligence in Medicine, Chang Gung Memorial Hospital (Taoyuan, Taiwan)"
+    },
+    {
+      "period": "Feb. 2020 – Sep. 2020",
+      "text": "Visiting Fellow, National Institute of Neurological Disorders and Stroke (Bethesda, Maryland)"
+    },
+    {
+      "period": "Sep. 2017 – Feb. 2020",
+      "text": "Visiting Fellow, Center for Information Technology, National Institutes of Health (Bethesda, Maryland)"
+    },
+    {
+      "period": "Sep. 2016 – Jan. 2017",
+      "text": "Adjunct Assistant Professor, Department of Health Care Management, National Taipei University of Nursing and Health Sciences (Taipei, Taiwan)"
+    },
+    {
+      "period": "May 2015 – Sep. 2017",
+      "text": "Postdoctoral Research Fellow, Systems and Synthetic Biology Center, National Yang-Ming University (Taipei, Taiwan)"
+    },
+    {
+      "period": "Apr. 2014 – Jul. 2014",
+      "text": "System Developer, Asia Sunrise Technology (National Institutes of Health, U.S.)"
+    },
+    {
+      "period": "Jul. 2013 – Mar. 2014",
+      "text": "Part-time Research Assistant, Resource Office of Medical Service Industry (Taipei, Taiwan)"
+    },
+    {
+      "period": "Mar. 2012 – Mar. 2013",
+      "text": "System Developer, Asia Sunrise Technology (National Institutes of Health, U.S.)"
+    },
+    {
+      "period": "Jun. 2010 – Dec. 2012",
+      "text": "Full-time Research Assistant, Taipei Veterans General Hospital (Taipei, Taiwan)"
+    }
+  ],
+  "education": [
+    {
+      "period": "2009 – 2014",
+      "text": "Ph.D., Institute of Biomedical Informatics, National Yang-Ming University (Taipei, Taiwan)"
+    },
+    {
+      "period": "2007 – 2009",
+      "text": "M.S., Institute of Medical Informatics, Tzu Chi University (Hualien, Taiwan)"
+    },
+    {
+      "period": "2003 – 2007",
+      "text": "B.S., Department of Medical Informatics, Tzu Chi University (Hualien, Taiwan)"
+    }
+  ],
+  "projects": [
+    {
+      "period": "2026/08 – 2029/07",
+      "text": "Development of a Taiwan-Localized ECG Foundation Model and Its Clinical Applications",
+      "id": "115-2221-E-182A-004-MY3, NSTC",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    },
+    {
+      "period": "2026/08 – 2027/07",
+      "text": "Popular Science Education: 2026 Medical AI Workshop (Topic 2)",
+      "id": "115-2515-S-182A-001, NSTC",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    },
+    {
+      "period": "2025/08 – 2026/07",
+      "text": "Developing a predictive model for major adverse cardiovascular events using multi-task deep learning techniques based on censored electrocardiograms and clinical data",
+      "id": "114-2221-E-182A-005, NSTC",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    },
+    {
+      "period": "2025/08 – 2026/07",
+      "text": "Popular Science Education: Medical AI Workshop (Topic 2)",
+      "id": "114-2515-S-182A-002, NSTC",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    },
+    {
+      "period": "2024/07 – 2025/02",
+      "text": "以高效方式訓練多模態類神經網路生成類風濕性關節炎影像報告之探討",
+      "id": "113-2813-C-182A-001-E, NSTC",
+      "role_zh": "大專生指導教授",
+      "role_en": "Faculty Advisor, Undergraduate Research Program"
+    },
+    {
+      "period": "2023/12 – 2025/11",
+      "text": "A natural language processing approach for clinical decision support",
+      "id": "CORPG3N0381, CGMH",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    },
+    {
+      "period": "2023/07 – 2024/02",
+      "text": "探討深度學習模型輕量化對於辨識 CT 影像中顱內出血種類之影響",
+      "id": "112-2813-C-182A-001-E, NSTC",
+      "role_zh": "大專生指導教授",
+      "role_en": "Faculty Advisor, Undergraduate Research Program"
+    },
+    {
+      "period": "2022/07 – 2023/02",
+      "text": "Development of Machine Learning Models for Incident Stroke Prediction Using Various Health Assessment Data Categories in a General Population: An AutoML Approach",
+      "id": "111-2813-C-182A-003-E, NSTC",
+      "role_zh": "大專生指導教授",
+      "role_en": "Faculty Advisor, Undergraduate Research Program"
+    },
+    {
+      "period": "2022/07 – 2023/02",
+      "text": "Predicting Stroke Onset Using Machine Learning Algorithms in a Large-Scale Biomedical Database",
+      "id": "NZRPG3M0031, CGMH",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    },
+    {
+      "period": "2021/04 – 2023/03",
+      "text": "Building a recurrent stroke prediction model using machine learning algorithms",
+      "id": "CGRPG3L0011, CGMH",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    },
+    {
+      "period": "2021/02 – 2022/07",
+      "text": "Using Machine Learning Methods to Analyze the Disability Pathways After a Stroke and Build Prediction Models",
+      "id": "110-2222-E-182A-001-MY2, NSTC",
+      "role_zh": "主持人",
+      "role_en": "Principal Investigator"
+    }
+  ],
+  "awards": [
+    {
+      "year": "2024",
+      "title": "國家醫療品質獎（NHQA）智慧醫療類競賽－標章",
+      "work": "智慧心電圖醫材自動化醫師判讀及風險預估"
+    },
+    {
+      "year": "2024",
+      "title": "SNQ 國家品質標章認證",
+      "work": "心電圖智慧醫材預測心房顫動及心室收縮"
+    },
+    {
+      "year": "2022",
+      "title": "國際智慧醫療高峰會潛力作品獎",
+      "work": "發展用於預測急性缺血性中風後長期死亡率的風險評分工具"
+    },
+    {
+      "year": "2021",
+      "title": "國家新創獎",
+      "work": "中英文醫療自然語言處理整合平台"
+    },
+    {
+      "year": "2021",
+      "title": "未來科技獎",
+      "work": "人工智能十二導程心電圖偵測心衰竭"
+    },
+    {
+      "year": "2016",
+      "title": "Best Paper Award, Joint Conference of Medical Informatics in Taiwan",
+      "work": "An Extension of Protocol Representation Model (PRMe)"
+    },
+    {
+      "year": "2014",
+      "title": "Best Paper Award, Joint Conference of Medical Informatics in Taiwan",
+      "work": "A preliminary study of openEHR two-level modelling approach applied on health examination report"
+    }
+  ]
+}

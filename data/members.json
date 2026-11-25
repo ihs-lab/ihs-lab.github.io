@@ -1,0 +1,122 @@
+[
+  {
+    "name_zh": "林敬恒",
+    "name_en": "Ching-Heng Lin",
+    "role": "pi",
+    "status": "current",
+    "year": 2026,
+    "title_zh": "助理教授",
+    "title_en": "Assistant Professor",
+    "affiliation_zh": "國立清華大學 醫學資訊碩士學位學程",
+    "affiliation_en": "Master's Program in Medical Informatics, NTHU",
+    "research": "醫療人工智慧、醫學資訊標準、臨床決策支援系統",
+    "research_en": "Medical AI, medical data standards, clinical decision support",
+    "email": "chlin@life.nthu.edu.tw",
+    "photo": "assets/img/members/lin-ching-heng.jpg",
+    "links": {
+      "github": "",
+      "scholar": "",
+      "website": "pi.html"
+    }
+  },
+  {
+    "name_zh": "邱孟君",
+    "name_en": "Meng-Jiun Chiou",
+    "role": "assistant",
+    "status": "current",
+    "year": 2026,
+    "title_zh": "研究助理",
+    "title_en": "Research Assistant",
+    "affiliation_zh": "",
+    "affiliation_en": "",
+    "research": "",
+    "research_en": "",
+    "email": "mengjiun@mx.nthu.edu.tw",
+    "photo": "assets/img/members/meng-jun.jpg",
+    "links": {
+      "github": "",
+      "scholar": "",
+      "website": ""
+    }
+  },
+  {
+    "name_zh": "陳冠霖",
+    "name_en": "Kuan-Lin Chen",
+    "role": "master",
+    "status": "current",
+    "year": 2026,
+    "title_zh": "碩士生",
+    "title_en": "M.S. Student",
+    "affiliation_zh": "醫學資訊碩士學位學程",
+    "affiliation_en": "Master's Program in Medical Informatics",
+    "research": "",
+    "research_en": "",
+    "email": "chenxx560@gmail.com",
+    "photo": "assets/img/members/guan-lin.jpg",
+    "links": {
+      "github": "",
+      "scholar": "",
+      "website": ""
+    }
+  },
+  {
+    "name_zh": "楊昱晨",
+    "name_en": "Yu Chen Yang",
+    "role": "master",
+    "status": "current",
+    "year": 2026,
+    "title_zh": "碩士生",
+    "title_en": "M.S. Student",
+    "affiliation_zh": "醫學資訊碩士學位學程",
+    "affiliation_en": "Master's Program in Medical Informatics",
+    "research": "",
+    "research_en": "",
+    "email": "920529justin@gmail.com",
+    "photo": "assets/img/members/yu-chen.jpg",
+    "links": {
+      "github": "",
+      "scholar": "",
+      "website": ""
+    }
+  },
+  {
+    "name_zh": "吳秉謙",
+    "name_en": "Bing-Chian Wu",
+    "role": "external",
+    "status": "current",
+    "year": null,
+    "title_zh": "校外指導學生",
+    "title_en": "External Mentee",
+    "affiliation_zh": "長庚大學醫學系",
+    "affiliation_en": "School of Medicine, Chang Gung University",
+    "research": "",
+    "research_en": "",
+    "email": "",
+    "photo": "assets/img/members/bing-qian.jpg",
+    "links": {
+      "github": "",
+      "scholar": "",
+      "website": ""
+    }
+  },
+  {
+    "name_zh": "陳昱睿",
+    "name_en": "Yu-Ruei Chen",
+    "role": "external",
+    "status": "current",
+    "year": null,
+    "title_zh": "校外指導・住院醫師",
+    "title_en": "External Mentee · Resident Physician",
+    "affiliation_zh": "嘉義長庚紀念醫院",
+    "affiliation_en": "Chiayi Chang Gung Memorial Hospital",
+    "research": "",
+    "research_en": "",
+    "email": "",
+    "photo": "assets/img/members/yu-ruei.jpg",
+    "links": {
+      "github": "",
+      "scholar": "",
+      "website": ""
+    }
+  }
+]

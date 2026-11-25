@@ -1,0 +1,847 @@
+[
+  {
+    "year": 2026,
+    "title": "Bridging the Gap Between Routine Cervical MRI and Oblique Foraminal Assessment: A Machine Learning Approach Using Quantitative Oblique Radiography",
+    "authors": "Yu-Ruei Chen, Sheng-Han Huang, **Ching-Heng Lin**, Yu-Jen Lu",
+    "venue": "2026 Annual Meeting of Taiwan Neurosurgical Society. Kaohsiung, Taiwan. Dec 2026",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2026,
+    "title": "Evaluating Cardiovascular-Kidney-Metabolic Predictors Using Penalized and Machine-Learning Survival Models in a Taiwanese Cohort",
+    "authors": "Bing-Chian Wu, Ming-Yuan Yang, Chang-Fu Kuo and **Ching-Heng Lin**",
+    "venue": "2026 Global Conference on Biomedical Engineering. Taipei, Taiwan. Nov 2026",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2026,
+    "title": "Enhancing Image-Text Alignment in Chest X-ray Datasets by Reducing External References via a Fine-Tuned Large Language Model Pipeline",
+    "authors": "Yu-Ruei Chen, Chang-Fu Kuo & **Ching-Heng Lin***",
+    "venue": "Journal of Imaging Informatics in Medicine, 1-10",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2026,
+    "title": "A Review of Transformers in Medical Research and Health Care",
+    "authors": "**Lin, Ching-Heng**, and Chang-Fu Kuo",
+    "venue": "Hand Clinics 42.1 (2026): 53-63",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2025,
+    "title": "Utilizing 12-lead electrocardiogram and machine learning to retrospectively estimate and prospectively predict atrial fibrillation and stroke risk",
+    "authors": "Po-Cheng Chang, Zhi-Yong Liu, Yu-Chang Huang, Jung-Sheng Chen, Chung-Chuan Chou, Hung-Ta Wo, Wen-Chen Lee, Hao-Tien Liu, Chun-Chieh Wang, **Ching-Heng Lin**, Pei-Hsuan Tung, Chang-Fu Kuo, Ming-Shien Wen",
+    "venue": "Computers in Biology and Medicine 188 (2025): 109871",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2025,
+    "title": "A multitask deep learning model utilizing electrocardiograms for major cardiovascular adverse events prediction",
+    "authors": "**Ching-Heng Lin**, Zhi-Yong Liu, Pao-Hsien Chu, Jung-Sheng Chen, Hsin-Hsu Wu, Ming-Shien Wen, Chang-Fu Kuo and Ting-Yu Chang",
+    "venue": "npj Digital Medicine 8.1 (2025): 1",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2025,
+    "title": "Exploring the Impact of Data Quality on Hallucinations in a Medical Visual Language Model",
+    "authors": "Yu-Ruei Chen, Chang-Fu Kuo, and **Ching-Heng Lin**",
+    "venue": "2025 Annual Symposium of Taiwanese Society of Biomedical Engineering Project Report of National Science and Technology Council. Hualien, Taiwan. Nov 2025",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2025,
+    "title": "評估以生成式AI輔助的智慧護理會診系統在臨床實踐中的影響",
+    "authors": "**林敬恒**、郭昶甫、陳麗琴、吳徐慧、白明弘、林佑任",
+    "venue": "臺灣醫療品質協會「第十一屆第三次會員大會暨學術研討會」, 台北台灣. Aug 2025",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Universal representations in cardiovascular ECG assessment: A self-supervised learning approach",
+    "authors": "Zhi-Yong Liu#, **Ching-Heng Lin**#, Yu-Chun Hsu, Jung-Sheng Chen, Po-Cheng Chang, Ming-Shien Wen, Chang-Fu Kuo",
+    "venue": "International Journal of Medical Informatics (2024): 105742. (#co-first author)",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Machine Learning Models for Predicting Mortality in Patients with Cirrhosis and Acute Upper Gastrointestinal Bleeding at an Emergency Department: A Retrospective Cohort Study",
+    "authors": "Shih-Chien Tsai#, **Ching-Heng Lin**#, Cheng-C. J. Chu , Hsiang-Yun Lo, Chip-Jin Ng, Chun-Chuan Hsu 1, and Shou-Yen Chen",
+    "venue": "Diagnostics, 2024, 14.17: 1919. (#co-first author)",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Assessment of the impact of resting heart rate on the risk of major adverse cardiovascular events after ischemic stroke: a retrospective observational study",
+    "authors": "**Ching-Heng Lin**, Jun-Fu Zhang, Ya-Wen Kuo, Chang-Fu Kuo, Yen-Chu Huang, Meng Lee and Jiann-Der Lee",
+    "venue": "BMC neurology, 2024, 24.1: 267",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "An efficient deep neural network for automatic classification of acute intracranial hemorrhages in brain CT scans",
+    "authors": "Yu-Ruei, Chen, Chih-Chieh Chen, Chang-Fu Kuo and **Ching-Heng Lin***",
+    "venue": "Computers in Biology and Medicine, 2024, 108587. (*corresponding)",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "ECG-surv: A deep learning-based model to predict time to 1-year mortality from 12-lead electrocardiogram",
+    "authors": "**Ching-Heng Lin**, Zhi-Yong Liu, Jung-Sheng Chen, Yang C. Fann, Ming-Shien Wen, Chang-Fu Kuo",
+    "venue": "Biomedical Journal, 2024, 100732",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Predicting Ischemic Stroke Patients’ Prognosis Changes using Machine Learning in a Nationwide Stroke Registry",
+    "authors": "**Ching-Heng Lin**, Yi-An Chen, Jiann-Shing Jeng, Yu Sun, Cheng-Yu Wei, Po-Yen Yeh, Wei-Lun Chang, Yang C. Fann, Kai-Cheng Hsu, Jiunn-Tay Lee, and Taiwan Stroke Registry Investigators",
+    "venue": "Medical & Biological Engineering & Computing (2024): 1-12",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Machine learning models for predicting unscheduled return visits of patients with abdominal pain at emergency department and validation during COVID-19 pandemic: A retrospective cohort study",
+    "authors": "Chun-Chuan Hsu, Cheng-C.J. Chu, Chip-Jin Ng, **Ching-Heng Lin**, Hsiang-Yun Lo, Shou-Yen Chen",
+    "venue": "Medicine 103.8 (2024): e37220",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Development and Validation of a Deep Learning-Based Survival Analysis Model for Heart Failure Prediction Using 12-lead Electrocardiograms",
+    "authors": "**Ching-Heng Lin**, Cheng-Yu, Han, Ming-Yuan Yang, Chang-Fu Kuo",
+    "venue": "2024 Annual Conference of Taiwanese Society of Biomedical Engineering -Annual Report of National Science and Technology Council, Taiwan. Tainan, Taiwan. Nov 2024",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Use of a large language model to detect potential cases of pulmonary arterial hypertension in rheumatoid arthritis patients",
+    "authors": "**Ching-Heng Lin**, Chen Jheng Ru, Chi-Ya Chen, Chen-I Hsieh and Chang-Fu Kuo",
+    "venue": "2024 CHANG GUNG MEDICAL WEEK. Kaohsiung, Taiwan. Oct 2024",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2023,
+    "title": "Development of a Machine Learning Model to Predict the Use of Surgery in Rheumatoid Arthritis Patients",
+    "authors": "Natalie B. Baxter#, **Ching-Heng Lin**#, Beth I. Wallace, Jung-Sheng Chen, Chang-Fu Kuo, Kevin C. Chung",
+    "venue": "Arthritis Care & Research (2023). (#co-first author)",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2023,
+    "title": "Machine Learning-based Prediction of Acute Mortality in Emergency Department Patients using Twelve-Lead Electrocardiogram",
+    "authors": "Po-Cheng Chang, Zhi-Yong Liu, Yu-Chang Huang, Yu-Chun Hsu, Jung-Sheng Chen, **Ching-Heng Lin**, Richard Tsai, Chung-Chuan Chou, Ming-Shien Wen, Hung-Ta Wo, Wen-Chen Lee, Hao-Tien Liu, Chun-Chieh Wang, Chang-Fu Kuo",
+    "venue": "Frontiers in Cardiovascular Medicine, 2023, 10: 1245614",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2023,
+    "title": "Artificial intelligence-enabled electrocardiographic screening for left ventricular systolic dysfunction and mortality risk prediction",
+    "authors": "Yu-Chang Huang, Yu-Chun Hsu, Zhi-Yong Liu, **Ching-Heng Lin**, Richard Tsai, Jung-Sheng Chen, Po-Cheng Chang, Hao-Tien Liu, Wen-Chen Lee, Hung-Ta Wo, Chung-Chuan Chou, Chun-Chieh Wang, Ming-Shien Wen and Chang-Fu Kuo",
+    "venue": "Frontiers in Cardiovascular Medicine, 2023, 10: 298",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2023,
+    "title": "Development and Validation of a Novel Score for Predicting Long-Term Mortality after an Acute Ischemic Stroke",
+    "authors": "**Ching-Heng Lin**, Ya-Wen Kuo, Yen-Chu Huang, Meng Lee, Yi-Wei Huang,Chang-Fu Kuo and Jiann-Der Lee*",
+    "venue": "International Journal of Environmental Research and Public Health, 2023, 20.4: 3043",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "AIM in Rheumatology",
+    "authors": "**Ching-Heng Lin**, Chang-Fu Kuo",
+    "venue": "In: Artificial Intelligence in Medicine. Cham: Springer International Publishing, 2022. p. 773-784",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "Cognitive Decline Related to Diet Pattern and Nutritional Adequacy in Alzheimer’s Disease Using Surface-Based Morphometry",
+    "authors": "Hua-Tsen Hsiao, Mi-Chia Ma, Hsin-I Chang, **Ching-Heng Lin**, Shih-Wei Hsu, Shu-Hua Huang, Chen-Chang Lee, Chi-Wei Huang and Chiung-Chih Chang",
+    "venue": "Nutrients, 2022, 14(24), 5300",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "Impact of amyloid pathology in mild cognitive impairment subjects: The longitudinal cognition and surface morphometry data",
+    "authors": "Hsin-I Chang, Shih-Wei Hsu, Zih-Kai Kao, Chen-Chang Lee, Shu-Hua Huang, Chiung-Chih Chang *, **Ching-Heng Lin**, Mu-N Liu",
+    "venue": "Int. J. Mol. Sci., 2022, 23(23), 14635",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "Accurately Identifying Cerebroarterial Stenosis from Angiography Reports Using Natural Language Processing Approaches",
+    "authors": "**Ching-Heng Lin**, Kai-Cheng Hsu, Chih-Kuang Liang, Tsong-Hai Lee, Ching-Sen Shih, Yang C. Fann",
+    "venue": "Diagnostics, 2022, 12.8: 1882",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "A Machine Learning Model for Predicting Unscheduled 72 h Return Visits to the Emergency Department by Patients with Abdominal Pain",
+    "authors": "Chun-Chuan Hsu, Cheng-C.J. Chu, **Ching-Heng Lin**, Chien-Hsiung Huang, Chip-Jin Ng, Guan-Yu Lin, Meng-Jiun Chiou, Hsiang-Yun Lo and Shou-Yen Chen",
+    "venue": "Diagnostics, 2022, 12.1: 82",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "以機器學習方法輔助到院就醫精準化大腸直腸癌篩檢邀請",
+    "authors": "黃逸薇、**林敬恒**、吳佳玲、黃昱瞳、李淑珠、王宏銘、邱月暇",
+    "venue": "2022健康照護聯合學術研討會, 台北台灣. Nov 2022",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "Development of a Novel Score for Predicting Long-term Mortality after Acute Ischemic Stroke",
+    "authors": "**Ching-Heng Lin**, Ya-Wen Kuo, Yen-Chu Huang, Meng Lee, Yi-Wei, Huang, Chang-Fu Kuo and Jiann‑Der Lee",
+    "venue": "2022 International Smart Healthcare Summit, Taichung Taiwan. Aug 2022",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2022,
+    "title": "Utilising machine learning and big data to explore the decisive predictors resulting in the amelioration in functional measurements of ischaemic stroke patients",
+    "authors": "Yi-An Chen, Kai-Cheng Hsu, **Ching-Heng Lin***",
+    "venue": "European Stroke Organisation Conference 2022. Lyon, France",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2021,
+    "title": "A disease-specific language representation model for cerebrovascular disease research",
+    "authors": "**Ching-Heng Lin**, Kai-Cheng Hsu, Chih-Kuang Liang, Tsong-Hai Lee, Chia-Wei Liou, Jiann-Der Lee, Tsung-I Peng, Ching-Sen Shih, Yang C. Fann",
+    "venue": "Computer Methods and Programs in Biomedicine, 2021, 106446",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2021,
+    "title": "Comparison of outcome prediction models post-stroke for a population-based registry with clinical variables collected at admission vs. discharge",
+    "authors": "Kai-Cheng Hsu, **Ching-Heng Lin**, Kory R. Johnson, Yang C. Fann, Chung Y. Hsu, Chon-Haw Tsai, Po-Lin Chen, Wei-Lun Chang, Po-Yen Yeh, Cheng-Yu Wei, Taiwan Stroke Registry Investigators",
+    "venue": "Vessel Plus 2021;5:2",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "https://doi.org/10.20517/2574-1209.2020.45",
+      "code": ""
+    }
+  },
+  {
+    "year": 2020,
+    "title": "Evaluation of Machine Learning Methods to Stroke Outcome Prediction Using a Nationwide Disease Registry",
+    "authors": "**Ching-Heng Lin**, Kai-Cheng Hsu, Kory R. Johnson, Yang C. Fann, Chon-Haw Tsai, Yu Sun, Li-Ming, Lien, Wei-Lun Chang, Po-Lin Chen, Cheng-Li Lin, Chung Y. Hsu and Taiwan Stroke Registry Investigators",
+    "venue": "Computer Methods and Programs in Biomedicine, 2020, 105381",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2020,
+    "title": "Autodetect extracranial and intracranial artery stenosis by machine learning using ultrasound",
+    "authors": "Kai-Cheng Hsu, **Ching-Heng Lin**, Kory R Johnson, Chi-Hung Liu, Ting-Yu Chang, Kuo-Lun Huang, Yang-Cheng Fann, Tsong-Hai Lee",
+    "venue": "Computers in Biology and Medicine, 2020, 116:103569",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2020,
+    "title": "Using Machine Learning Model to Differentiate Stroke Types in Emergency Room without Image Information",
+    "authors": "**Ching-Heng Lin**, Kai-Cheng Hsu, Taiwan Stroke Registry Investigators and Yang C. Fann",
+    "venue": "International Stroke Conference 2020, Los Angeles, California, 19-21 February 2020",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2020,
+    "title": "Detecting Extracranial and Intracranial Artery Stenosis by Machine Learning Method Using Ultrasound Data",
+    "authors": "Kai-Cheng Hsu, **Ching-Heng Lin**, Kory R. Johnson, Yang-Cheng Fann, Tsong-Hai Lee",
+    "venue": "International Stroke Conference 2020, Los Angeles, California, 19-21 February 2020",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2019,
+    "title": "Applying density-based outlier identifications using multiple datasets for validation of stroke clinical outcomes",
+    "authors": "**Ching-Heng Lin**, Kai-Cheng Hsu, Kory R. Johnson, Marie Luby, Yang C. Fann",
+    "venue": "International Journal of Medical Informatics, 2019, 103988",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2019,
+    "title": "Integrative LHS for precision medicine research: A shared NIH and Taiwan CIMS experience",
+    "authors": "Ueng‐Cheng Yang, Tzu‐Hung Hsiao, **Ching‐Heng Lin**, Wei‐Ju Lee, Yu‐Shan Lee, Yang C Fann",
+    "venue": "Learning Health Systems, 2019, 3.1: e10071",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2018,
+    "title": "A Standard-driven Approach for Electronic Submission to Pharmaceutical Regulatory Authorities",
+    "authors": "**Ching-Heng Lin**, Hsin-I Chou, Ueng-Cheng Yang",
+    "venue": "Journal of biomedical informatics, 79 (2018): 60-70",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2016,
+    "title": "Building Chronic Kidney Disease Clinical Practice Guidelines using the openEHR Guideline Definition Language",
+    "authors": "**Ching-Heng Lin**, Ying-Chih Lo, Pei-Yuan Hung, Der-Ming Liou",
+    "venue": "Methods of Information in Medicine, 2016,55:",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2016,
+    "title": "An exploratory study using an openEHR 2-level modeling approach to represent common data elements",
+    "authors": "**Ching-Heng Lin**, Yang-Cheng Fann, and Der-Ming Liou",
+    "venue": "Journal of the American Medical Informatics Association 23.5 (2016): 956-967",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2016,
+    "title": "An Extension of Protocol Representation Model (PRMe): A standard-based study protocol content model",
+    "authors": "**Ching-Heng Lin**, Hsin-I Chou, and Ueng-Cheng Yang",
+    "venue": "Joint Conference of Medical Informatics in Taiwan 2016, Taipei, Taiwan, 2016, pp.114-120",
+    "type": "conference",
+    "note": "Oral, Best Paper Award",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2015,
+    "title": "The comparison of a semi-automatic annotation tool and a natural language processing application for the generation of clinical statement entries",
+    "authors": "**Ching-Heng Lin**, Nai-Yuan Wu, Wei-Shao Lai and Der-Ming Liou",
+    "venue": "Journal of the American Medical Informatics Association, 2015; 22 (1): 132-142",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2015,
+    "title": "A multi-technique approach to bridge electronic case report form design and data standard adoption",
+    "authors": "**Ching-Heng Lin**, Nai-Yuan Wu, and Der-Ming Liou",
+    "venue": "Journal of biomedical informatics, 53 (2015): 49-57",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2015,
+    "title": "Implementing the CDISC standards into an existing CTMS by using an integrated workflow approach",
+    "authors": "**Ching-Heng Lin**, Hsin-I Chou, Jung Hui Yang, and Ueng-Cheng Yang",
+    "venue": "2015 CDISC International Interchange, Fairmount Chicago Millennium Park Chicago, Illinois, 09-13 November 2015",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2015,
+    "title": "A preliminary user acceptance model of clinical trial search system",
+    "authors": "Ya-Chi Chang, **Ching-Heng Lin**, Der-Ming Liou",
+    "venue": "Joint Conference of Medical Informatics in Taiwan 2015, Taipei, Taiwan, 2015, pp.31-36",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2015,
+    "title": "A comparison of ICD-10-PCS Inquery System",
+    "authors": "Yi-Jou Chou, **Ching-Heng Lin**, Der-MingLiou",
+    "venue": "Joint Conference of Medical Informatics in Taiwan 2015, Taipei, Taiwan, 2015, pp.88-91",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2014,
+    "title": "A preliminary study of openEHR Two-level modelling approach applied on health examination report",
+    "authors": "Pei Yuan Hung, **Ching-Heng Lin**, Der-MingLiou",
+    "venue": "Joint Conference of Medical Informatics in Taiwan 2014, Taipei, Taiwan, 2014, pp. 71-76",
+    "type": "conference",
+    "note": "Oral, Best Paper Award",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2014,
+    "title": "An entry generation pipeline for converting free-text medical document into clinical document architecture document with entry-level",
+    "authors": "**Ching-Heng Lin**, Wei-Shao Lai, Li-Hui Lee, Hsiao-Mei Tsao and Der-Ming Liou",
+    "venue": "International Conferences on Biomedical and Health Informatics 2014, Valencia, Spain, 2014, pp. 505-508",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2013,
+    "title": "Role-Based Access Control For Clinical Trial Information System Using Ontology",
+    "authors": "Wen-Cheng Jiang, **Ching-Heng Lin**, Der-Ming Liou",
+    "venue": "Joint Conference of Medical Informatics in Taiwan 2013, Taipei, Taiwan, 2013, pp. 33-38",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2013,
+    "title": "Establishing Interoperable Clinical Trial Case Report Forms",
+    "authors": "Tsai-Chia Tsai, **Ching-Heng Lin**, Ueng‐Cheng Yang, and Der-Ming Liou",
+    "venue": "Joint Conference of Medical Informatics in Taiwan 2013, Taipei, Taiwan, 2013, pp. 168-174",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2013,
+    "title": "Using medical text extracting to structured medical problem list",
+    "authors": "Wei-Shao Lai, **Ching-Heng Lin**, and Der-Ming Liou",
+    "venue": "Joint Conference of Medical Informatics in Taiwan 2013, Taipei, Taiwan, 2013, p. 232",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2011,
+    "title": "A novel support vector sampling technique to improve classification accuracy and to identify key genes of leukaemia and prostate cancers",
+    "authors": "Austin H. Chen, **Ching-Heng Lin**",
+    "venue": "Expert Systems with Applications 2011; 38(4):3209-19",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2010,
+    "title": "Novel methods to identify biologically relevant genes for leukemia and prostate cancer from gene expression profiles",
+    "authors": "Austin H. Chen, Yin-Wu Tsau and **Ching-Heng Lin**",
+    "venue": "BMC genomics 2010;11(1):274",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2009,
+    "title": "An intelligent system for analyzing gene networks from microarray data",
+    "authors": "Austin H. Chen and **Ching-Heng Lin**",
+    "venue": "B. Chien, Tzu Hong (Eds.): Opportunities and Challenges for Next-Generation Applied Intelligence, Studies in Computational Intelligence (SCI), Vol. 214, pp. 1-6, c Springer-Verlag Berlin Heidelberg 2009",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2009,
+    "title": "GNAnalyzer: A novel system for analyzing gene networks from microarray data with Bayesian Networks",
+    "authors": "Austin H Chen, **Ching-Heng Lin**, Guan-Ting Chen, and Jen-Chieh Hsieh",
+    "venue": "World Congress on Computer Science and Information Engineering, IEEE Computer Society, Vol. 5, pp. 22 - 27, 2009",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2009,
+    "title": "BCPP: An intelligent prediction system of breast cancer prognosis using microarray and clinical data",
+    "authors": "Austin H Chen*, Guan-Ting Chen, Jen-Chieh Hsieh, and **Ching-Heng Lin**",
+    "venue": "World Congress on Computer Science and Information Engineering, IEEE Computer Society, Vol. 5, pp. 28 – 32, 2009",
+    "type": "conference",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2008,
+    "title": "GNGS: An artificial intelligent tool for generating and analyzing gene networks from microarray data",
+    "authors": "Austin H. Chen and **Ching-Heng Lin**",
+    "venue": "Edited by Paula Fritzsche: Tools in Artificial Intelligence, pp. 35 – 48, 2008, I-Tech Education and Publishing, Hardcover, ISBN: 978-953-7619-03-9",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2007,
+    "title": "GNAS: A tool for analyzing performance of gene networks generated from Bayesian network algorithms",
+    "authors": "Austin H. Chen and **Ching-Heng Lin**",
+    "venue": "Tools with Artificial Intelligence, IEEE Computer Society, Vol. 1, pp. 78 - 84, 2007",
+    "type": "journal",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2007,
+    "title": "Detection and Prediction of Sudden Cardiac Death (SCD) for Personal Healthcare",
+    "authors": "Tsu-Wang (David) Shen, Hsiao-Ping Shan, **Ching-Heng Lin**, Yi-Ling Ou",
+    "venue": "29th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, p.p 2575-2578, 2007",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": 2006,
+    "title": "A personal Sudden Cardiac Death (SCD) detector based on ECG biometric technology",
+    "authors": "Tsu-Wang (David) Shen, C. C. Lin, Hsiao-Ping Shan, Yi-Ling Ou, and **Ching-Heng Lin**",
+    "venue": "World Congress on Medical Physics and Biomedical Engineering 2006(WC 2006). Seoul, Korea. Aug. 27 to Sep. 1, 2006",
+    "type": "conference",
+    "note": "Oral",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": null,
+    "title": "ECG based Survival Rate Predictor Systems and Methods",
+    "authors": "**Ching-Heng Lin**, Chang-Fu Kuo, Ming-Shien Wen, Zhi-Yong Liu, Jung-Sheng Chen, Richard Tsai",
+    "venue": "R.O.C. Patent I867541",
+    "type": "patent",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": null,
+    "title": "Major cardiovascular disease prediction system and major cardiovascular disease prediction methods",
+    "authors": "Chang-Fu Kuo, Pao-Hsien Chu, Zhi-Yong Liu, **Ching-Heng Lin**, Jung-Sheng Chen, Richard Tsai",
+    "venue": "R.O.C. Patent I834286",
+    "type": "patent",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": null,
+    "title": "System and Method of Electronic Case Report Form Design and Data Standard Adoption",
+    "authors": "**Ching-Heng Lin**, Der-Ming Liou",
+    "venue": "R.O.C. Patent I563403",
+    "type": "patent",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": null,
+    "title": "System and Method of Standard-Compliant Electronic Case Report Form Design and Clinical Dataset Generation",
+    "authors": "**Ching-Heng Lin**, Ueng-Cheng Yang, Yang-Cheng Fann",
+    "venue": "R.O.C. Patent I601087",
+    "type": "patent",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  },
+  {
+    "year": null,
+    "title": "Method of Producing Regulation-compliant Application document",
+    "authors": "Ueng-Cheng Yang, **Ching-Heng Lin**, Hsin-I Chou, Yin-Chi Chang, Yang-Cheng Fann",
+    "venue": "R.O.C. Patent I622009",
+    "type": "patent",
+    "note": "",
+    "links": {
+      "pdf": "",
+      "doi": "",
+      "code": ""
+    }
+  }
+]
